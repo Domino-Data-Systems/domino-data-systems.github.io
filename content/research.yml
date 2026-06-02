@@ -1,0 +1,19 @@
+- id: agentic-parallel-book-writing
+  title: Agentic Parallel Book Writing
+  venue: Industrial research track
+  year: 2026
+  abstract: >-
+    Hierarchical multi-agent generation of fiction, textbooks, and language courses
+    with local language models—director-through-reviewer tiers, parallel scene writers,
+    and retry-aware completion for book-length output.
+  href: https://domino-data-systems.github.io/agentic-parallel-book-writer/
+  paperHref: https://domino-data-systems.github.io/agentic-parallel-book-writer/
+  resultsHref: https://domino-data-systems.github.io/agentic-parallel-book-writer/
+  highlights:
+    - "~300-page novel drafts with 4-tier fiction pipeline"
+    - "6-tier textbook & language modes with exercises and answer keys"
+    - "Benchmarked on Apple M2 Ultra with pooled writer throughput"
+  tags:
+    - Multi-agent
+    - Local LLM
+    - Long-form generation

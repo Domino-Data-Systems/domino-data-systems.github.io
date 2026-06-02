@@ -1,0 +1,41 @@
+- id: agentic-book-writer
+  title: Agentic Parallel Book Writer
+  category: Product
+  description: >-
+    Hierarchical multi-agent pipeline for fiction novels, STEM textbooks, and
+    bilingual language courses—powered by local LLMs with tiered parallel drafting.
+  href: https://domino-data-systems.github.io/agentic-parallel-book-writer/
+  tags:
+    - Multi-agent
+    - Local LLM
+    - Ollama
+  featured: true
+  metrics:
+    - label: Book modes
+      value: "3"
+    - label: Max tiers
+      value: "6"
+
+- id: research-showcase
+  title: Research & Publications
+  category: Research
+  description: >-
+    Industrial-track papers, benchmark galleries, and reproducible findings from
+    Domino Data Systems research programs.
+  href: "#research"
+  tags:
+    - Papers
+    - Benchmarks
+  featured: true
+
+- id: custom-agentic
+  title: Custom Agentic Systems
+  category: Services
+  description: >-
+    Design and engineering of domain-specific agent orchestration, evaluation harnesses,
+    and on-prem inference stacks for regulated environments.
+  href: mailto:hello@dominodatasystems.com
+  tags:
+    - Consulting
+    - On-prem
+  featured: false

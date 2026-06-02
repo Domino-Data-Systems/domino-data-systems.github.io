@@ -1,0 +1,23 @@
+# Optional Jekyll layer — mirrors content/ for GitHub Pages native builds or hybrid workflows.
+# Primary site is built with Next.js (see README). Use Jekyll for blog posts under _posts/ later.
+
+title: Domino Data Systems
+description: Research-grade agentic systems for books, data, and knowledge at scale.
+url: https://domino-data-systems.github.io
+baseurl: ""
+logo: /logo.png
+
+markdown: kramdown
+theme: null
+plugins: []
+
+exclude:
+  - node_modules
+  - out
+  - .next
+  - src
+  - package.json
+  - package-lock.json
+  - tsconfig.json
+  - next.config.ts
+  - postcss.config.mjs

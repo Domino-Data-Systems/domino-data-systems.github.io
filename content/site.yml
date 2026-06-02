@@ -1,0 +1,17 @@
+name: Domino Data Systems
+tagline: Research-grade agentic systems for books, data, and knowledge at scale.
+url: https://domino-data-systems.github.io
+founder:
+  name: Shyamal Suhana Chandra
+  title: Sole Technical Founder
+  url: https://shyamalschandra.github.io/
+  image: /founder.jpg
+nav:
+  - label: Offerings
+    href: "#offerings"
+  - label: Research
+    href: "#research"
+  - label: Founder
+    href: "#founder"
+  - label: Contact
+    href: "#contact"

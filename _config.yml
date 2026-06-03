@@ -2,7 +2,7 @@
 # Primary site is built with Next.js (see README). Use Jekyll for blog posts under _posts/ later.
 
 title: Domino Data Systems
-description: Research-grade agentic systems for books, data, and knowledge at scale.
+description: Automating everything—including education—with AI agent systems for publishing, learning, and knowledge work.
 url: https://domino-data-systems.github.io
 baseurl: ""
 logo: /logo.png

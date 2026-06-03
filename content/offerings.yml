@@ -2,13 +2,14 @@
   title: Agentic Parallel Book Writer
   category: Product
   description: >-
-    Hierarchical multi-agent pipeline for fiction novels, STEM textbooks, and
-    bilingual language courses—powered by local LLMs with tiered parallel drafting.
+    Automate end-to-end book production—fiction novels, STEM textbooks, and bilingual
+    language courses—with hierarchical agents that plan, write, review, and generate
+    exercises plus answer keys on local LLMs.
   href: https://domino-data-systems.github.io/agentic-parallel-book-writer/
   tags:
+    - Education automation
     - Multi-agent
     - Local LLM
-    - Ollama
   featured: true
   metrics:
     - label: Book modes
@@ -16,26 +17,47 @@
     - label: Max tiers
       value: "6"
 
+- id: automated-education
+  title: Automated Education Pipelines
+  category: Product
+  description: >-
+    AI-native curriculum generation—outlines, lessons, drills (fill-in-the-blank,
+    multiple choice, matching), and separate reviewer tiers—so instructional design
+    scales like software deployment.
+  href: https://domino-data-systems.github.io/agentic-parallel-book-writer/
+  tags:
+    - Textbooks
+    - Language courses
+    - Drills & keys
+  featured: true
+  metrics:
+    - label: Drill types
+      value: "4+"
+    - label: Review tiers
+      value: "6"
+
 - id: research-showcase
   title: Research & Publications
   category: Research
   description: >-
-    Industrial-track papers, benchmark galleries, and reproducible findings from
-    Domino Data Systems research programs.
+    Industrial-track papers and benchmark galleries documenting how agentic automation
+    performs on real book-length and education workloads.
   href: "#research"
   tags:
     - Papers
     - Benchmarks
+    - AI automation
   featured: true
 
 - id: custom-agentic
   title: Custom Agentic Systems
   category: Services
   description: >-
-    Design and engineering of domain-specific agent orchestration, evaluation harnesses,
-    and on-prem inference stacks for regulated environments.
+    Design automation for your domain—education platforms, publishing houses, or
+    regulated ops—with orchestration, evaluation harnesses, and on-prem inference.
   href: mailto:hello@dominodatasystems.com
   tags:
     - Consulting
     - On-prem
+    - Full-stack automation
   featured: false

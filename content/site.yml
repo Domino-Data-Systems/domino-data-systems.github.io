@@ -1,12 +1,60 @@
 name: Domino Data Systems
-tagline: Research-grade agentic systems for books, data, and knowledge at scale.
+theme: Automating everything—including education
+tagline: >-
+  AI agent systems that automate publishing, learning, and knowledge work—from
+  novels and textbooks to full language courses and the workflows behind them.
+mission: >-
+  One domino triggers the next. We build hierarchical AI agents that turn manual
+  creative and educational pipelines into repeatable, local-first automation—so
+  humans steer vision while machines draft, review, and scale.
+heroBadge: AI automation · Education · Agentic systems
 url: https://domino-data-systems.github.io
 founder:
   name: Shyamal Suhana Chandra
   title: Sole Technical Founder
   url: https://shyamalschandra.github.io/
   image: /founder.jpg
+  bio: >-
+    Building Domino Data Systems around a single conviction: automate everything
+    worth repeating—including how we teach, learn, and publish. From hierarchical
+    multi-agent book generation to evaluation harnesses for local LLM pools, the
+    goal is composable AI that ships as research-grade public showcases.
+vision:
+  headline: Automating everything—including education
+  subhead: >-
+    When each agent tier completes its work, the next domino falls—drafting,
+    reviewing, exercising, and answering at scale without sacrificing coherence.
+  pillars:
+    - id: publish
+      title: Automate publishing
+      description: >-
+        Fiction, STEM textbooks, and bilingual courses—director-to-reviewer agent
+        tiers produce book-length output with parallel writers and retry-aware completion.
+      icon: book
+    - id: educate
+      title: Automate education
+      description: >-
+        Curriculum outlines, lesson sections, typed drills, and model answer keys—
+        language courses with vocabulary tables, exercises, and reviewer gates built in.
+      icon: graduation
+    - id: operate
+      title: Automate operations
+      description: >-
+        Custom orchestration, benchmarks, and on-prem inference stacks for teams
+        that need agentic automation without cloud lock-in.
+      icon: gears
+introVideo:
+  eyebrow: Watch
+  headline: See Domino Data Systems in motion
+  description: >-
+    A quick introduction to our mission—automating publishing, education, and
+    knowledge work with hierarchical AI agents.
+  src: /dds-intro-video.mp4
 nav:
+  - label: Vision
+    href: "#vision"
+  - label: Intro
+    href: "#intro"
   - label: Offerings
     href: "#offerings"
   - label: Research

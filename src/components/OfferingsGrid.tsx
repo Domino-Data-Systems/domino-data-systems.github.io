@@ -11,8 +11,9 @@ export function OfferingsGrid({ offerings }: Props) {
             Offerings
           </h2>
           <p className="mt-3 text-brand-700">
-            Products, research programs, and services—composed from shared agentic
-            building blocks and published as living showcases on GitHub Pages.
+            Products and research that automate publishing and education—from
+            agent-orchestrated books to curriculum pipelines—built as composable,
+            local-first AI on GitHub Pages.
           </p>
         </div>
 

@@ -30,7 +30,10 @@ export function Hero({ site }: Props) {
         <div className="flex flex-col justify-center">
           <p className="mb-4 inline-flex w-fit items-center gap-2 rounded-full border border-accent-400/30 bg-white/70 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-brand-700">
             <span className="domino-dot" />
-            Agentic systems · Local LLMs · Research
+            {site.heroBadge}
+          </p>
+          <p className="mb-3 max-w-xl text-sm font-semibold uppercase tracking-wide text-accent-400">
+            {site.theme}
           </p>
           <h1 className="text-4xl font-bold tracking-tight text-brand-950 sm:text-5xl lg:text-6xl">
             <span className="text-gradient">{site.name}</span>

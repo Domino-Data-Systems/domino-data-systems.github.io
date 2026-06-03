@@ -36,10 +36,7 @@ export function FounderSection({ site }: Props) {
             </h2>
             <p className="mt-1 text-brand-700">{founder.title}</p>
             <p className="mt-6 max-w-xl leading-relaxed text-brand-700">
-              Architect of Domino Data Systems research products—from hierarchical
-              multi-agent book generation to evaluation harnesses tuned for local
-              inference pools. Building composable agent stacks that ship as polished
-              public research showcases.
+              {founder.bio}
             </p>
             <a
               href={founder.url}

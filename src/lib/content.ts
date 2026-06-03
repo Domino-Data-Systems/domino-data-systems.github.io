@@ -4,15 +4,38 @@ import yaml from "js-yaml";
 
 const contentDir = path.join(process.cwd(), "content");
 
+export type VisionPillar = {
+  id: string;
+  title: string;
+  description: string;
+  icon: "book" | "graduation" | "gears";
+};
+
 export type SiteConfig = {
   name: string;
+  theme: string;
   tagline: string;
+  mission: string;
+  heroBadge: string;
   url: string;
   founder: {
     name: string;
     title: string;
     url: string;
     image: string;
+    bio: string;
+  };
+  vision: {
+    headline: string;
+    subhead: string;
+    pillars: VisionPillar[];
+  };
+  introVideo: {
+    eyebrow: string;
+    headline: string;
+    description: string;
+    src: string;
+    poster?: string;
   };
   nav: { label: string; href: string }[];
 };

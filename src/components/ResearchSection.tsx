@@ -14,8 +14,9 @@ export function ResearchSection({ papers }: Props) {
             Research papers
           </h2>
           <p className="mt-3 text-accent-300/90">
-            Peer-style industrial research with public showcases—papers, benchmarks,
-            and reproducible narratives without exposing proprietary implementation.
+            Industrial research on automating long-form publishing and education—
+            papers, benchmarks, and public showcases that prove agent tiers can
+            replace manual drafting at scale.
           </p>
         </div>
 

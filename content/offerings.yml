@@ -1,3 +1,16 @@
+- id: bible-verse-bee
+  title: Bible Verse Bee
+  category: Product
+  description: >-
+    Test your knowledge of Bible verses in an interactive quiz game—start a round,
+    tune settings, and climb the top scores leaderboard.
+  href: https://domino-data-systems.github.io/Bible-Verse-Bee/
+  tags:
+    - Education
+    - Quiz game
+    - Scripture
+  featured: true
+
 - id: agentic-book-writer
   title: Agentic Parallel Book Writer
   category: Product

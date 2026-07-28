@@ -1,3 +1,17 @@
+- id: yankovinator
+  title: Yankovinator
+  category: Product
+  description: >-
+    AI-powered parody generator with syllable matching, rhyme schemes, semantic
+    coherence, and local LLM generation via Ollama—so songs become themed parodies
+    that keep the original rhythm and style.
+  href: https://shyamalschandra.github.io/Yankovinator/
+  tags:
+    - Parody generation
+    - Local LLM
+    - Creative AI
+  featured: true
+
 - id: bible-verse-bee
   title: Bible Verse Bee
   category: Product

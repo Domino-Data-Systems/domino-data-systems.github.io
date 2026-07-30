@@ -63,6 +63,26 @@
     - label: Review tiers
       value: "6"
 
+- id: conjunctive-snipper
+  title: Conjunctive Snipper
+  category: Product
+  description: >-
+    Indexes spoken media into pause, sentence, word, and syllable clips, then composes
+    requested sequences with an inverted index that prefers unused takes and ranks
+    reuse by usage—research product with an industrial-track paper; packaged binary
+    shipping when the release is ready.
+  href: https://domino-data-systems.github.io/conjunctive-video-snippet-generator/
+  tags:
+    - Video indexing
+    - Speech media
+    - Industrial research
+  featured: true
+  metrics:
+    - label: Clip tiers
+      value: "4"
+    - label: Status
+      value: Research
+
 - id: research-showcase
   title: Research & Publications
   category: Research

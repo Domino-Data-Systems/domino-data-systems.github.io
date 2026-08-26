@@ -39,6 +39,20 @@
     - AI education
   featured: true
 
+- id: passage2quizzes
+  title: Passage2Quizzes
+  category: Product
+  description: >-
+    Turn any reading passage into quizzes automatically—on-device Llama 3.2 via Ollama
+    keeps generation local so curriculum teams can draft assessment items without
+    sending content to the public internet.
+  href: https://domino-data-systems.github.io/Passage2Quizzes/
+  tags:
+    - Education automation
+    - Quiz generation
+    - Local LLM
+  featured: true
+
 - id: agentic-book-writer
   title: Agentic Parallel Book Writer
   category: Product

@@ -25,6 +25,20 @@
     - Scripture
   featured: true
 
+- id: prompt-bee
+  title: Prompt Bee
+  category: Product
+  description: >-
+    Guess the Prompt—an interactive challenge game built around a curated corpus of
+    AI prompts. Tune settings, play rounds from the hive menu, and sharpen prompt
+    literacy by reverse-engineering what instruction produced each output.
+  href: https://domino-data-systems.github.io/prompt-bee/
+  tags:
+    - Prompt literacy
+    - Quiz game
+    - AI education
+  featured: true
+
 - id: agentic-book-writer
   title: Agentic Parallel Book Writer
   category: Product

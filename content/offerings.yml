@@ -1,3 +1,17 @@
+- id: ai-crossword-puzzle-generator
+  title: AI Crossword Puzzle Generator
+  category: Product
+  description: >-
+    Give it a topic and a local language model writes clues, places answers on a
+    grid, and prints a puzzle PDF with clues and answer key—nothing leaves your
+    machine via a hosted model API.
+  href: https://domino-data-systems.github.io/AI-crossword-puzzle-generator/
+  tags:
+    - Education
+    - Local LLM
+    - Crossword
+  featured: true
+
 - id: yankovinator
   title: Yankovinator
   category: Product

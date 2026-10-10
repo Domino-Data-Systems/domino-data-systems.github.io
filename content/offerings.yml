@@ -67,6 +67,26 @@
     - Local LLM
   featured: true
 
+- id: agentic-lecture-hall
+  title: Agentic Education Lecture & Discussion Hall
+  category: Product
+  description: >-
+    A local rehearsal room where one Ollama model plays lecturer and fifteen seeded
+    “students”—each seat is temperature and top-k, not extra weights. Real macOS speech
+    can be interrupted by raised hands; answers and paragraph art run on the same local
+    stack, with an industrial-track paper and public demo figures.
+  href: https://domino-data-systems.github.io/agentic-education-lecture-and-discussion-hall/
+  tags:
+    - Education automation
+    - Local LLM
+    - Lecture simulation
+  featured: true
+  metrics:
+    - label: Student seats
+      value: "15"
+    - label: Speech engine
+      value: macOS say
+
 - id: agentic-book-writer
   title: Agentic Parallel Book Writer
   category: Product
